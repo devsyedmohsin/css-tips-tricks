@@ -688,13 +688,18 @@ If you encounter any issues or have questions about this project, please feel fr
 
 Please consider supporting this project. Your support enables me to continue working on this project and creating more resources in the future.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 ## 🤝 Contributing
 
 If you have a CSS tip or trick that you'd like to share with the community, I'd love to hear from you!
 
 When submitting a pull request, please be sure to include a **detailed description** of the tip or trick, along with a **code snippet** and any relevant **images**.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 ## 📝 License
 
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+
+<sup>[back to table of contents](#table-of-contents)</sup>
