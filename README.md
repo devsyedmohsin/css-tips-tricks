@@ -1,13 +1,13 @@
 <p align="center">
-  <img class="paintbrush" src="./assets/images/paintbrush.png" width="200" alt="paintbrush drawing rainbow circle">
+  <img class="paintbrush" src="./assets/images/paintbrush.png" width="185" alt="paintbrush drawing rainbow circle">
 </p>
 
 # CSS Tips Tricks
 
 A handmade collection of pro css tips tricks 🌟
 
-- [Support](#🆘-support)
 - [Contributing](#🤝-contributing)
+- [Support](#🆘-support)
 - [License](#📝-license)
 
 
@@ -61,7 +61,8 @@ You can craft a responsive documentation-styled layout using CSS grid with only 
 
 <summary>See result</summary>
 
-![layout](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojs8nvly2ugashxwqif8.png)
+<img src="assets/images/documentation-layout.png" alt="documentation styled layout">
+
 
 </details>
 
@@ -83,8 +84,7 @@ For implementing smooth scrolling for a page add `scroll-behavior: smooth` to th
 
 <summary>See result</summary>
 
-![Smoothly scrolling to links](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q07p14eafibh8v1q4mot.gif)
-
+<img src="assets/images/smooth-scroll.gif" alt="smooth scrolling to different sections">
 </details>
 
 
@@ -107,7 +107,8 @@ h1 {
 
 <summary>See result</summary>
 
-![NETLIFY](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h9xcwsh18vxqw1uaj5h3.png)
+<img src="assets/images/stroke-text.png" alt="Netlify">
+
 
 </details>
 
@@ -199,7 +200,8 @@ html{
 
 <summary>See result</summary>
 
-![image with custom cursor](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ba8kist57vp6l9spw8w2.gif)
+<img src="assets/images/custom-cursors.gif" alt="custom cursor">
+
 
 </details>
 
@@ -220,8 +222,7 @@ table{
 
 <summary>See result</summary>
 
-![Changing the tables caption side from top to bottom](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7t44rugi8gx3ksndq560.gif)
-
+<img src="assets/images/table-caption.gif" alt="changing table caption side from top to bottom">
 
 </details>
 
@@ -244,8 +245,7 @@ video:paused {
 
 <summary>See result</summary>
 
-
-![plam tree on river](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dq1za9uri1a37kqyh1y1.gif)
+<img src="assets/images/paused.gif" alt="plam tree gif on a beach">
 
 </details>
 
@@ -268,7 +268,8 @@ p{
 
 <summary>See result</summary>
 
-![css tips and tricks poem](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1ryft9s27y56el3ljx4.png)
+<img src="assets/images/text-columns.png" alt="3 text columns">
+
 
 </details>
 
@@ -298,7 +299,8 @@ writing-mode: vertical-lr;
 
 <summary>See result</summary>
 
-![text starting from](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ozqs02sh7edl70cd609a.png)
+<img src="assets/images/writing-mode.png" alt="text starting from sideways-lr">
+
 
 </details>
 
@@ -353,7 +355,8 @@ You can create a zoom-in effect when hovering over an image, this is a technique
 
 <summary>See result</summary>
 
-![shopping bag laying on grey tiles](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fcf9qhfjduxzv3k77vo1.gif)
+<img src="assets/images/zoom-on-hover.gif" alt="shoping bag on grey tiles">
+
 
 </details>
 
@@ -394,7 +397,7 @@ div::after {
 
 <summary>See result</summary>
 
-![coral and crimson colred gradient box with sam gradient sahdow](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7m1dom17vm31mcn8ht1p.png)
+<img src="assets/images/gradient-shadows.png" alt="box with gradient shadow">
 
 
 </details>
@@ -478,7 +481,8 @@ h1{
 
 <summary>See result</summary>
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tz5qf63uynnvnih5vpub.png)
+<img src="assets/images/fill-text-with-img.png" alt="text filled with flower image">
+
 
 </details>
 
@@ -500,7 +504,7 @@ Avoid unnecessary spans and use pseudo elements instead to style your content li
 
 <summary>See result</summary>
 
-![first letter of text styled diffrently](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvet1qfqgn9lejcj45s1.png)
+<img src="assets/images/dropcaps.png" alt="first letter of text styled differently">
 
 </details>
 
@@ -525,7 +529,7 @@ This technique enhances visual consistency and readability by adding leading zer
 
 <summary>See result</summary>
 
-![ordered list items with appended leading zero before starting number](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3y9aa1men2ps991lh725.png)
+<img src="assets/images/decimal-leading-zero.png" alt="decimal leading zero before list numbers">
 
 </details>
 
@@ -613,8 +617,7 @@ button{
 
 <summary>See result</summary>
 
-![Button with text shop now changing colors](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ys0lov43gsapiueht95.gif)
-
+<img src="assets/images/rainbow-animation.gif" alt="hue rotate filter on button">
 
 </details>
 
@@ -635,7 +638,7 @@ h1{
 
 <summary>See result</summary>
 
-![font size changing based on scree size](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5eyucrd6slppmbygx56.gif)
+<img src="assets/images/clamp-function.gif" alt="font-size changing based on screen size">
 
 </details>
 
@@ -676,9 +679,18 @@ footer{
 
 <summary>See result</summary>
 
-![sticky footer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6v3yvplcwvrtmn8xnbuy.png)
+<img src="assets/images/sticky-footer.png" alt="sticky footer">
 
 </details>
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+## 🤝 Contributing
+
+If you have a CSS tip or trick that you'd like to share with the community, I'd love to hear from you!
+
+When submitting a pull request, please be sure to include a **detailed description** of the tip or trick, along with a **code snippet** and any relevant **images**.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -687,14 +699,6 @@ footer{
 If you encounter any issues or have questions about this project, please feel free to reach out to me for support. You can contact me via email at devsyedmohsin@gmail.com.
 
 Please consider supporting this project. Your support enables me to continue working on this project and creating more resources in the future.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-## 🤝 Contributing
-
-If you have a CSS tip or trick that you'd like to share with the community, I'd love to hear from you!
-
-When submitting a pull request, please be sure to include a **detailed description** of the tip or trick, along with a **code snippet** and any relevant **images**.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
