@@ -6,6 +6,10 @@
 
 A handmade collection of pro css tips tricks 🌟
 
+- [Support](#🆘-support)
+- [Contributing](#🤝-contributing)
+- [License](#📝-license)
+
 
 ## Table of Contents
 
@@ -234,7 +238,7 @@ video:paused {
 }
 ```
 
-**Note:** At the moment, this feature is only supported in Safari, but you can use this helpful [caniuse](https://caniuse.com/) to check for the latest support across different browsers.
+**Note:** At the moment, this feature is only supported in Safari, but you can use this helpful [tool](https://caniuse.com/) to check for the latest support across different browsers.
 
 <details>
 
@@ -349,7 +353,7 @@ You can create a zoom-in effect when hovering over an image, this is a technique
 
 <summary>See result</summary>
 
-![crimson colored shopping bag laying on grey tiles](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cxy8ymu937e0kf14wwbc.gif)
+![shopping bag laying on grey tiles](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fcf9qhfjduxzv3k77vo1.gif)
 
 </details>
 
@@ -693,4 +697,4 @@ When submitting a pull request, please be sure to include a **detailed descripti
 
 ## 📝 License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
