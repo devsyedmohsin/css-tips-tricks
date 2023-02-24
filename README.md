@@ -17,9 +17,9 @@ A handmade collection of pro css tips tricks 🌟
 1. [Improve Media Defaults](#improve-media-defaults)
 1. [Style `:optional` Form Elements](#style-optional-form-elements)
 1. [The Custom Cursors](#the-custom-cursor)
-1. [Change Table Title Side](#change-table-title-side)
+1. [Move Table Caption to the bottom](#move-table-caption-to-bottom)
 1. [Create Text Columns](#create-text-columns)
-1. [Use :paused And :playing Selector](#use-paused-and-playing-selector)
+1. [Styling video states via :paused and :playing` pseudo classes](#styling-video-states-via-paused-and-playing-pseudo-classes)
 1. [Change Writing Mode](#change-writing-mode)
 1. [Providing Fallback Values for Variables](#providing-fallback-values-for-variables)
 1. [Zooming Images on Hover](#zooming-images-on-hover)
@@ -202,7 +202,7 @@ html{
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Change Table Title Side
+### Move Table Caption to Bottom
 
 Use the `caption-side` property to place the table caption or table title on a specified side of the table.
 
@@ -224,7 +224,7 @@ table{
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Use `:paused` And `:playing` Selector
+### Styling video states via `:paused` and `:playing` pseudo classes
 
 Use `:paused` selector to style media elements like audio, and  video when in paused state likewise paused we also have `:palying` pseudo-class selector.
 
