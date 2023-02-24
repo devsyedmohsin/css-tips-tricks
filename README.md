@@ -6,9 +6,9 @@
 
 A handmade collection of pro css tips tricks 🌟
 
-- [Contributing](#🤝-contributing)
-- [Support](#🆘-support)
-- [License](#📝-license)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
 
 ## Table of Contents
@@ -686,7 +686,7 @@ footer{
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-## 🤝 Contributing
+## Contributing
 
 If you have a CSS tip or trick that you'd like to share with the community, I'd love to hear from you!
 
@@ -694,7 +694,7 @@ When submitting a pull request, please be sure to include a **detailed descripti
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## 🆘 Support
+## Support
 
 If you encounter any issues or have questions about this project, please feel free to reach out to me for support. You can contact me via email at devsyedmohsin@gmail.com.
 
@@ -702,7 +702,7 @@ Please consider supporting this project. Your support enables me to continue wor
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
