@@ -27,12 +27,14 @@ A handmade collection of pro css tips tricks 🌟
 1. [Change Writing Mode](#change-writing-mode)
 1. [Providing Fallback Values for Variables](#providing-fallback-values-for-variables)
 1. [Zooming Images on Hover](#zooming-images-on-hover)
+1. [Emphasizing Text Content](#emphasizing-text-content)
 1. [Create Gradient Shadows](#create-gradient-shadows)
 1. [Five Ways Centering of Divs](#five-ways-of-centering-divs)
 1. [Fill Text With Images](#fill-text-with-images)
 1. [Style Drop Caps](#style-drop-caps)
 1. [Add Leading Zeros to Ordered Lists](#add-leading-zeros-to-ordered-lists)
 1. [Using Emoji as List Style Type](#using-emoji-as-list-style-type)
+1. [Adding Indentation to Text](#adding-indentation-to-text)
 1. [Add Dark Mode Support on Your Website](#using-emoji-as-list-style-type)
 1. [Disable Textarea Resizing](#disable-textarea-resizing)
 1. [Rainbow Animation](#rainbow-animation)
@@ -274,7 +276,6 @@ p{
 </details>
 
 
-
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -363,6 +364,27 @@ You can create a zoom-in effect when hovering over an image, this is a technique
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+### Emphasizing Text Content
+
+Use `text-emphasis` property to apply emphasis marks to text elements.You can specify any string including emojis as its value.
+
+```css
+h1 {
+  text-emphasis: "⏰";
+}
+```
+**Note:** Please refer to [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis) docs to learn more about this property.
+
+
+<details>
+
+<summary>See result</summary>
+
+<img src="assets/images/emphasizing-text.jpg" alt="Time is a healer">
+
+</details>
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 ### Create Gradient Shadows
 
@@ -547,6 +569,26 @@ li{
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+### Adding Indentation to Text
+
+Use the `text-indent` property to indent the first line of a text block. Negative values are also allowed.
+
+```css
+p{
+  text-indent:2.6rem;
+}
+```
+
+<details>
+
+<summmary>See result</summary>
+
+<img src="assets/images/text-indent.png" alt="first line of text block indented to the right side">
+
+</details>
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Add Dark Mode Support to Your Website
 
@@ -671,7 +713,6 @@ You can create a `footer` that always stick to the bottom of the browser window 
 
 footer{
   margin-top: auto;
-  padding: 1rem;
 }
 ```
 
