@@ -40,6 +40,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [Rainbow Animation](#rainbow-animation)
 1. [Use clamp() for Responsive Typography](#disable-textarea-resizing)
 1. [Create A Sticky Footer](#create-a-sticky-footer)
+1. [Change Themes of Form Elements](#change-themes-of-form-elements)
 
 ### Create Documentation Styled Layout
 
@@ -726,6 +727,35 @@ footer{
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+### Change Themes of Form Elements
+
+You can change the color theme of some of the form elements out there with pure CSS.
+
+```html
+<form>
+  <input type="checkbox" name="check" id="check" class="checkbox"/>
+  <input type="radio" name ="radio" id="radio" class="radio">
+  <input type="range" name="range" id="range" class="range">
+  <progress class="progress" max="100" value="70"> </progress>
+</form>
+```
+
+```css
+.checkbox, .radio, .range, .progress {
+  accent-color: black;
+}
+```
+
+<details>
+  
+<summary>See result</summary>
+
+<img src="assets/images/changing-themes-of-form-elements.png" alt="changing themes of form elements">
+
+</details>
+
+<sup>[back to table of contents](#table-of-contents)</sup> 
+  
 
 ## Contributing
 
