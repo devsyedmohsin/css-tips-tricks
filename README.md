@@ -19,7 +19,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [Check If Selector Is Supported](#check-if-selector-is-supported)
 1. [Check If Property Is Supported](#check-if-property-is-supported)
 1. [Improve Media Defaults](#improve-media-defaults)
-1. [Style `:optional` Form Elements](#style-optional-form-elements)
+1. [Style Optional Form Elements](#style-optional-form-elements)
 1. [The Custom Cursors](#the-custom-cursor)
 1. [Move Table Caption to the bottom](#move-table-caption-to-bottom)
 1. [Create Text Columns](#create-text-columns)
@@ -29,7 +29,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [Zooming Images on Hover](#zooming-images-on-hover)
 1. [Emphasizing Text Content](#emphasizing-text-content)
 1. [Create Gradient Shadows](#create-gradient-shadows)
-1. [Five Ways Centering of Divs](#five-ways-of-centering-divs)
+1. [Five Ways of Centering Divs](#five-ways-of-centering-divs)
 1. [Fill Text With Images](#fill-text-with-images)
 1. [Style Drop Caps](#style-drop-caps)
 1. [Add Leading Zeros to Ordered Lists](#add-leading-zeros-to-ordered-lists)
@@ -423,7 +423,6 @@ div::after {
 
 
 </details>
-
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
