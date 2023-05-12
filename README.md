@@ -23,7 +23,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [The Custom Cursors](#the-custom-cursor)
 1. [Move Table Caption to the bottom](#move-table-caption-to-bottom)
 1. [Create Text Columns](#create-text-columns)
-1. [Styling video states via :paused and :playing` pseudo classes](#styling-video-states-via-paused-and-playing-pseudo-classes)
+1. [Styling video states via :paused and :playing pseudo classes](#styling-video-states-via-paused-and-playing-pseudo-classes)
 1. [Change Writing Mode](#change-writing-mode)
 1. [Providing Fallback Values for Variables](#providing-fallback-values-for-variables)
 1. [Zooming Images on Hover](#zooming-images-on-hover)
@@ -135,18 +135,17 @@ You can check if a selector is supported by your browser or not using the `selec
 ### Check If Property Is Supported
 
 
-You can also detect properties support using the `@supports` rule.
+You can also detect properties support using the CSS `@supports` rule.
 
 ```css
 @supports (display: grid) {
-/* Code that will only run if the selector is supported */
    main {
     display: grid;
   }
 }
 ```
 
- Creator of codepen [@chriscoyier](https://github.com/chriscoyier) has done an exceptional job of providing valuable insights and information on the `@supports` rule, Also Known as Feature queries. Read [here](https://css-tricks.com/how-supports-works/).
+ Chris Coyier has done an exceptional job of providing valuable insights and information on the `@supports` rule, Also Known as Feature queries. Read [here](https://css-tricks.com/how-supports-works/).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -175,7 +174,7 @@ Additionally, I have set `object-fit:contain;` to ensure that images preserve a 
 You can style form fields like `input`, `select`, and `textarea` that do not have a required attribute on them using the `:optional` pseudo-class.
 
 ```css
-/* Selects all optional form fields on the page */
+/* Selects all optional form fields */
 *:optional{
   background-color: green;
 }
@@ -196,7 +195,7 @@ html{
 }
 ```
 
-**Note:** `auto` will be used as falback value in case image does not load for some reason.
+**Note:** `auto` will be used as fallback value in case image does not load for some reason.
 
 <details>
 
@@ -536,7 +535,8 @@ Avoid unnecessary spans and use pseudo elements instead to style your content li
 
 ### Add Leading Zeros to Ordered Lists
 
-If you want to add leading zeros to the numbers in your ordered list items, you can use the CSS property `list-style-type` with the value `decimal-leading-zero`.
+Enhance visual consistency and readability by adding leading zeros to the numbers in your ordered list items.
+
 
 ```css
 li{
@@ -544,7 +544,6 @@ li{
 }
 ```
 
-This technique enhances visual consistency and readability by adding leading zeros to the numbers in your ordered list items.
 
 <details>
 
@@ -558,7 +557,7 @@ This technique enhances visual consistency and readability by adding leading zer
 
 ### Using Emoji as `list-style-type`
 
-You can use emojis as list style types in CSS It's a fun way to add some personality to your lists.
+You can use emojis as list style types It's a fun way to add some personality to your lists.
 
 ```css
 li{
@@ -580,7 +579,7 @@ p{
 
 <details>
 
-<summmary>See result</summary>
+<summary>See result</summary>
 
 <img src="assets/images/text-indent.png" alt="first line of text block indented to the right side">
 
@@ -626,7 +625,7 @@ textarea{
 
 ### Rainbow Animation
 
-Creates a continuously looping color animation for elements to grab user attention.
+Creates a continuously looping color animation for elements.
 
 ```css
 button{
@@ -736,9 +735,9 @@ When submitting a pull request, please be sure to include a **detailed descripti
 
 ## Support
 
-If you encounter any issues or have questions about this project, please feel free to reach out to me for support. You can contact me via email at devsyedmohsin@gmail.com.
-
 Please consider supporting this project. Your support enables me to continue working on this project and creating more resources in the future.
+
+If you encounter any issues or have questions about this project, please feel free to reach out to me for support. You can contact me via email at devsyedmohsin@gmail.com.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
