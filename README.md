@@ -18,6 +18,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [Adding Stroke to Text](#adding-stroke-to-text)
 1. [Check If Selector Is Supported](#check-if-selector-is-supported)
 1. [Check If Property Is Supported](#check-if-property-is-supported)
+1. [Play and Pause Animations](#play-and-pause-animations)
 1. [Improve Media Defaults](#improve-media-defaults)
 1. [Style Optional Form Elements](#style-optional-form-elements)
 1. [The Custom Cursors](#the-custom-cursor)
@@ -149,6 +150,45 @@ You can also detect properties support using the CSS `@supports` rule.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+### Play and Pause Animations
+
+Use the `animation-play-state` property to play and pause an animation.
+For example: Playing an animation on hover.
+
+```css
+/* By default animation is paused */
+.box {
+  animation-name: rotate;
+  animation-duration: 0.7s;
+  animation-iteration-count: infinite;
+  animation-play-state: paused;
+}
+
+/* Play animation on hover */
+.box:hover {
+  animation-play-state: running;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+```
+
+<details>
+
+<summary>See result</summary>
+
+<img src="assets/images/animation-state.gif" alt="custom cursor">
+
+</details>
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Improve Media Defaults
