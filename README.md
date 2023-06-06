@@ -20,7 +20,7 @@ A handmade collection of pro css tips tricks 🌟
 1. [Check If Property Is Supported](#check-if-property-is-supported)
 1. [Play and Pause Animations](#play-and-pause-animations)
 1. [Improve Media Defaults](#improve-media-defaults)
-1. [Make text readable on background images]()
+1. [Make text readable on images](#make-text-readable-on-images)
 1. [Style Optional Form Elements](#style-optional-form-elements)
 1. [The Custom Cursors](#the-custom-cursor)
 1. [Move Table Caption to the bottom](#move-table-caption-to-bottom)
@@ -209,7 +209,7 @@ Additionally, I have set `object-fit:contain;` to ensure that images preserve a 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-### Make text readable on background images
+### Make text readable on images
 
 Add linear-gradient overlay on your images to make your text content readable and accessible for users.
 
@@ -230,8 +230,8 @@ Add linear-gradient overlay on your images to make your text content readable an
 #### Uses gradient
 
 <img src="assets/images/image-using-gradient.jpg" alt="custom cursor">
-</details>
 
+</details>
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
