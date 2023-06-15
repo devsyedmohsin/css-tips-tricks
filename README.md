@@ -10,6 +10,9 @@ A handmade collection of pro css tips tricks 🌟
 - [Support](#support)
 - [License](#license)
 
+## Useful Resources
+
+Make sure to subscribe to our [youtube channel](https://www.youtube.com/@nisarhassan12) channel and also don't forget to star 🌟 the open-source [portfolio-template](https://github.com/devsyedmohsin/portfolio-template) I created for anyone to use for free.
 
 ## Table of Contents
 
